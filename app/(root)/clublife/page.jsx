@@ -82,18 +82,21 @@ const page = () => {
             </p>
           </motion.div>
           <motion.img
+            alt="Inside the amFOSS lab with computers and students"
             src="/assets/misc/thelab3.png"
             className="w-full h-auto p-5"
             whileHover={{ scale: 1.02 }}
             transition={{ duration: 0.3 }}
           />
           <motion.img
+            alt="Mentor Mentee meeting at amFOSS lab"
             src="/assets/misc/thelab.png"
             className="w-full h-auto p-5"
             whileHover={{ scale: 1.02 }}
             transition={{ duration: 0.3 }}
           />
           <motion.img
+            alt="Collaborative project at amFOSS lab"
             src="/assets/misc/thelab2.png"
             className="w-full h-auto p-5"
             whileHover={{ scale: 1.02 }}
